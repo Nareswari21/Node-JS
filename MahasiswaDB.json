@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "5eb9ec5eee6c594dac5ef3fd"
+  },
+  "fullName": "Ara Fasaka",
+  "email": "ara@gmail.com",
+  "mobile": "087775805494",
+  "nim": "21120117140014",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5eb9ef01ee6c594dac5ef3fe"
+  },
+  "fullName": "Doni",
+  "email": "doni@gmail.com",
+  "mobile": "0853213344",
+  "nim": "211201120005",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5eb9ef2dee6c594dac5ef400"
+  },
+  "fullName": "Irgantara",
+  "email": "irga@yahoo.com",
+  "mobile": "08667508777",
+  "nim": "21120113012",
+  "__v": 0
+}]
